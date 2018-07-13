@@ -87,7 +87,6 @@ unified_metric_names = {
     "MB/T_AMB0": "Inlet Temp",
     "/MB/T_AMB": "Inlet Temp",
     # Supermicro
-    "Air Temp": "Inlet Temp",
     "System Temp" : "Inlet Temp"
 }
 def mangle_metric_name(metric_name,prefix):
